@@ -19,9 +19,9 @@ In your exploration, you find that survival models optimize by maximizing log li
 
 You raise this with Doe II, who says this is always how it has been done.  To assuage you, he offers to run a classification algorithm instead, in case it is simply a problem with the pesky survival formulation.  Furthermore, he assures you that his data is perfectly collected for one year (no censorship).
 
-You reflect on Doe II's offer.  You learn that empirical risk minimizers of binary classification problems ({heart attack, no heart attack}) 
+You reflect on Doe II's offer.  You learn that empirical risk minimizers of binary classification problems ({heart attack, no heart attack}) use crossentropy, so compared to another person, you count as much as your cross-entropy.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNjUzMzgwOSwtMTg0MjgyMjQ5NiwtMj
+eyJoaXN0b3J5IjpbLTUwMDg0MTU0NywtMTg0MjgyMjQ5NiwtMj
 AwNDExMjE0OCwtOTQwMzYzODkyLC0xMjA0NjYyNjMxLC0xMjAw
 NjQyNDIsNDAxOTYyOTkxLDgzOTMwMzM3N119
 -->
