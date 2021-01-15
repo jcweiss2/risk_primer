@@ -15,9 +15,9 @@ Doe II's model was a survival model built on the general population and you veri
 $``\text{you} \in \text{data}; \text{data} \rightarrow \text{model} \rightarrow \text{recommendations}"$
 
 But you tread on because the recommendations are unhelpful.
-In your exploration, you find that survival models optimize by maximizing log likelihoods, where [the log likelihood effectively weighs risk proportionally to risk accumulated over time (cumulative hazard).  So if two people, one with 10 times the risk (1 in 100 versus 1 in 1000), were each observed for heart attack for one year, the model would optimize 10 *times* more to the high risk person.
+In your exploration, you find that survival models optimize by maximizing log likelihoods, and that [the log likelihood weighs risk proportionally to risk accumulated over time](https://arxiv.org/abs/1911.05109) (cumulative hazard).  So if two people, one with 10 times the risk (1 in 100 versus 1 in 1000), were each observed for heart attack for one year, the model would optimize 10 *times* more to the high risk person.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MzUzOTU2OSwtMjAwNDExMjE0OCwtOT
-QwMzYzODkyLC0xMjA0NjYyNjMxLC0xMjAwNjQyNDIsNDAxOTYy
-OTkxLDgzOTMwMzM3N119
+eyJoaXN0b3J5IjpbLTE4OTE3NDA0MDQsLTIwMDQxMTIxNDgsLT
+k0MDM2Mzg5MiwtMTIwNDY2MjYzMSwtMTIwMDY0MjQyLDQwMTk2
+Mjk5MSw4MzkzMDMzNzddfQ==
 -->
