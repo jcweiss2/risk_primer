@@ -17,11 +17,11 @@ $``\text{you} \in \text{population}; \text{population} \rightarrow \text{model} 
 But you tread on because the recommendations are unhelpful.
 In your exploration, you find that survival models optimize by maximizing log likelihoods, and that [the log likelihood weighs risk proportionally to risk accumulated over time](https://arxiv.org/abs/1911.05109).  So, if two people, one with 10 times the risk (1 in 100 versus 1 in 1000), were each observed for heart attack for one year, the model would optimize 10 *times* more to the high risk person.
 
-You raise this with Doe II, who says this is always how it has been done.  To assuage you, he offers to run a classification algorithm instead, in case it is simply a problem with the pesky survival formulation.  Furthermore, he assures you that his data is perfectly collected for  one year (no censorship).
+You raise this with Doe II, who says this is always how it has been done.  To assuage you, he offers to run a classification algorithm instead, in case it is simply a problem with the pesky survival formulation.  Furthermore, he assures you that his data is perfectly collected for one year (no censorship).
 
-You reflect on Doe II's offer.  You 
+You reflect on Doe II's offer.  You learn that empirical risk minimizers of binary classification problems ({heart attack, no heart attack}) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzOTU3MzE0OCwtMTg0MjgyMjQ5NiwtMj
+eyJoaXN0b3J5IjpbLTgyNjUzMzgwOSwtMTg0MjgyMjQ5NiwtMj
 AwNDExMjE0OCwtOTQwMzYzODkyLC0xMjA0NjYyNjMxLC0xMjAw
 NjQyNDIsNDAxOTYyOTkxLDgzOTMwMzM3N119
 -->
