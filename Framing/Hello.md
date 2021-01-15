@@ -14,9 +14,10 @@ Doe II's model was a survival model built on the general population and you veri
 
 $``\text{you} \in \text{data}; \text{data} \rightarrow \text{model} \rightarrow \text{recommendations}"$
 
-But you tread on because the recommendations seem not to apply to you.
-In your exploration, you find th
+But you tread on because the recommendations are unhelpful.
+In your exploration, you find that survival models optimize by maximizing log likelihood
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MDM2Mzg5MiwtMTIwNDY2MjYzMSwtMT
-IwMDY0MjQyLDQwMTk2Mjk5MSw4MzkzMDMzNzddfQ==
+eyJoaXN0b3J5IjpbLTk2NjQ5MDQ0MSwtOTQwMzYzODkyLC0xMj
+A0NjYyNjMxLC0xMjAwNjQyNDIsNDAxOTYyOTkxLDgzOTMwMzM3
+N119
 -->
