@@ -12,9 +12,9 @@ Your BMI is 22, you already walk 30 minutes 3 times weekly, and your fasting blo
 
 Doe II's model was a survival model built on the general population and you verify that his population included patients like you.  You are reassured because: you are a member of the population, the model is built from population samples, and Doe II's recommendations are based on the model:
 
-$\text{you} \in \text{population}$, $\text{samples} \in \text{population};$ 
-$\text{samples} \rightarrow \text{model} \rightarrow \text{recommendations}$
-
+$\text{you} \in \text{population}$; $\text{samples} \in \text{population};$ 
+$\text{samples} \rightarrow \text{train model} \rightarrow \text{recommendations}$
+$\text{you} \rightarrow \text{use model} \rightarrow \text{your recommendations}$
 
 But you tread on because the recommendations are unhelpful.
 In your exploration, you find that survival models optimize by maximizing log likelihoods, and that [the log likelihood weighs risk proportionally to risk accumulated over time](https://arxiv.org/abs/1911.05109).  So, if two people, one with 10 times the risk (1 in 100 versus 1 in 1000), were each observed for heart attack for one year, the model would optimize 10 *times* more to the high risk person.
@@ -27,7 +27,7 @@ You reflect on Doe II's offer.  You learn that binary classification problems ({
 
   And in margin classifiers (e.g. SVMs), if you're not a support vector, you don't count at all.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NDAwNTMzMCwtMTg0MjgyMjQ5NiwtMj
-AwNDExMjE0OCwtOTQwMzYzODkyLC0xMjA0NjYyNjMxLC0xMjAw
-NjQyNDIsNDAxOTYyOTkxLDgzOTMwMzM3N119
+eyJoaXN0b3J5IjpbLTEyNDc5MzU3MTgsLTE4NDI4MjI0OTYsLT
+IwMDQxMTIxNDgsLTk0MDM2Mzg5MiwtMTIwNDY2MjYzMSwtMTIw
+MDY0MjQyLDQwMTk2Mjk5MSw4MzkzMDMzNzddfQ==
 -->
