@@ -17,9 +17,9 @@ $``\text{you} \in \text{data}; \text{data} \rightarrow \text{model} \rightarrow 
 But you tread on because the recommendations are unhelpful.
 In your exploration, you find that survival models optimize by maximizing log likelihoods, and that [the log likelihood weighs risk proportionally to risk accumulated over time](https://arxiv.org/abs/1911.05109).  So, if two people, one with 10 times the risk (1 in 100 versus 1 in 1000), were each observed for heart attack for one year, the model would optimize 10 *times* more to the high risk person.
 
-You raise this with Doe II, who says this is always how it has been done.  To assuage you, he offers to run a classification algorithm instead, in case it is simply a problem with the pesky survival formulation.  FurthermoreHe assures you does tell you that his data is perfectly collected for  one year.  
+You raise this with Doe II, who says this is always how it has been done.  To assuage you, he offers to run a classification algorithm instead, in case it is simply a problem with the pesky survival formulation.  Furthermore, he assures you that his data is perfectly collected for  one year (no censorship).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NzczMTI0OSwtMjAwNDExMjE0OCwtOT
-QwMzYzODkyLC0xMjA0NjYyNjMxLC0xMjAwNjQyNDIsNDAxOTYy
-OTkxLDgzOTMwMzM3N119
+eyJoaXN0b3J5IjpbLTE4NDI4MjI0OTYsLTIwMDQxMTIxNDgsLT
+k0MDM2Mzg5MiwtMTIwNDY2MjYzMSwtMTIwMDY0MjQyLDQwMTk2
+Mjk5MSw4MzkzMDMzNzddfQ==
 -->
