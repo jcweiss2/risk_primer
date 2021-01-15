@@ -23,14 +23,14 @@ You raise this with Doe II, who says this is always how it has been done.  To as
 
 You reflect on Doe II's offer.  You learn that binary classification problems ({heart attack, no heart attack}) typically use cross-entropy. So, compared to another person, you count as much as your cross-entropy.  How much is that?  
 
-Supposing the model gets your risk exactly right (i.e. is Bayes-optimal): your cross-entropy is $-0.001 \text{log}_{2}0.001= $
+Supposing the model gets your risk exactly right (i.e. is Bayes-optimal): your cross-entropy is $-0.001 \text{log}_{2}0.001\approx 0.01$, and the person with 10 times the risk is $-0.001 \text{log}_{2}0.001\approx 0.07$.  So the s
 
 
 
   And in margin classifiers (e.g. SVMs), if you're not a support vector, you don't count at all.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjU0NTE5NDYsLTEyNDc5MzU3MTgsLT
-E4NDI4MjI0OTYsLTIwMDQxMTIxNDgsLTk0MDM2Mzg5MiwtMTIw
-NDY2MjYzMSwtMTIwMDY0MjQyLDQwMTk2Mjk5MSw4MzkzMDMzNz
-ddfQ==
+eyJoaXN0b3J5IjpbLTQxNzQ0OTA1NiwtMTI0NzkzNTcxOCwtMT
+g0MjgyMjQ5NiwtMjAwNDExMjE0OCwtOTQwMzYzODkyLC0xMjA0
+NjYyNjMxLC0xMjAwNjQyNDIsNDAxOTYyOTkxLDgzOTMwMzM3N1
+19
 -->
