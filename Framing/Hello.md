@@ -1,8 +1,9 @@
-### Working
-"Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your **Google Drive**, your **Dropbox** and your **GitHub** accounts."  "Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your **Google Drive**, your **Dropbox** and your **GitHub** accounts.  "Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your **Google Drive**, your **Dropbox** and your **GitHub** accounts."  "Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your **Google Drive**, your **Dropbox** and your **GitHub** accounts. <img align="right" src="https://www.w3schools.com/images/w3schools_green.jpg"> 
-"Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your **Google Drive**, your **Dropbox** and your **GitHub** accounts."  "Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your **Google Drive**, your **Dropbox** and your **GitHub** accounts.
+### How much you count
+You are an everyday John Doe.
+You know a researcher who spends his life studying populations for risk of heart attack.
+You do not want a heart attack.  Fortunately, from your general world knowledge
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDA2NDI0Miw0MDE5NjI5OTEsODM5Mz
-AzMzc3XX0=
+eyJoaXN0b3J5IjpbODQ1MDg2MDAyLC0xMjAwNjQyNDIsNDAxOT
+YyOTkxLDgzOTMwMzM3N119
 -->
