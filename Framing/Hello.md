@@ -31,10 +31,12 @@ Supposing the classification model gets your risk exactly right (i.e. is Bayes-o
  
 (You consider turning to margin classifiers (e.g. SVMs), but you realize if you're not a support vector, you don't count at all.)
 
-Realizing that you remain unsettled, Doe II suggests building a secondary model on the subgroup.  But who should be included?  First, the next model still proportionally focus on the highest risk members.  Second, if the initial model is not very good for low risk individuals, high risk members could leak in, and low members could be omitted.  And third, members who pass the first filtration may be selected for based on their characteristics, which may result in an unrepresentative population.
+Realizing that you remain unsettled, Doe II suggests building a secondary model on the subgroup.  But who should be included?  First, the next model still proportionally focus on the highest risk members.  Second, if the initial model is not very good for low risk individuals, high risk members could bleed in, and low members could leak out.  And third, members who pass the first filtration may be selected for based on their characteristics, which may result in an unrepresentative population.
+
+Equivocator D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ1ODE5MTYzLDk0MzExMjM0OSwtMTI0Nz
-kzNTcxOCwtMTg0MjgyMjQ5NiwtMjAwNDExMjE0OCwtOTQwMzYz
-ODkyLC0xMjA0NjYyNjMxLC0xMjAwNjQyNDIsNDAxOTYyOTkxLD
-gzOTMwMzM3N119
+eyJoaXN0b3J5IjpbMTAxMzMzMjE2MCw5NDMxMTIzNDksLTEyND
+c5MzU3MTgsLTE4NDI4MjI0OTYsLTIwMDQxMTIxNDgsLTk0MDM2
+Mzg5MiwtMTIwNDY2MjYzMSwtMTIwMDY0MjQyLDQwMTk2Mjk5MS
+w4MzkzMDMzNzddfQ==
 -->
