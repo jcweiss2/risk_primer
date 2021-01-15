@@ -15,9 +15,9 @@ Doe II's model was a survival model built on the general population and you veri
 $``\text{you} \in \text{data}; \text{data} \rightarrow \text{model} \rightarrow \text{recommendations}"$
 
 But you tread on because the recommendations are unhelpful.
-In your exploration, you find that survival models optimize by maximizing log likelihood
+In your exploration, you find that survival models optimize by maximizing log likelihoods, where the log likelihood effectively weighs risk proportionally to risk accumulated over time (cumulative hazard).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NjQ5MDQ0MSwtOTQwMzYzODkyLC0xMj
-A0NjYyNjMxLC0xMjAwNjQyNDIsNDAxOTYyOTkxLDgzOTMwMzM3
-N119
+eyJoaXN0b3J5IjpbLTE3NTI1OTg5ODEsLTk0MDM2Mzg5MiwtMT
+IwNDY2MjYzMSwtMTIwMDY0MjQyLDQwMTk2Mjk5MSw4MzkzMDMz
+NzddfQ==
 -->
