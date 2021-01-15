@@ -14,12 +14,13 @@ Doe II's model was a survival model built on the general population and you veri
 
 $``\text{you} \in \text{data}; \text{data} \rightarrow \text{model} \rightarrow \text{recommendations}"$
 
+But you tread on because the recommendations seem not to apply to you.  
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNzc2OTYzMywtMTIwMDY0MjQyLDQwMT
-k2Mjk5MSw4MzkzMDMzNzddfQ==
+eyJoaXN0b3J5IjpbLTEyMDQ2NjI2MzEsLTEyMDA2NDI0Miw0MD
+E5NjI5OTEsODM5MzAzMzc3XX0=
 -->
