@@ -19,11 +19,13 @@ In your exploration, you find that survival models optimize by maximizing log li
 
 You raise this with Doe II, who says this is always how it has been done.  To assuage you, he offers to run a classification algorithm instead, in case it is simply a problem with the pesky survival formulation.  Furthermore, he assures you that his data is perfectly collected for one year (no censorship).
 
-You reflect on Doe II's offer.  You learn that empirical risk minimizers of binary classification problems ({heart attack, no heart attack}) typically use cross-entropy. So, compared to another person, you count as much as your cross-entropy.  How much is that?  
+You reflect on Doe II's offer.  You learn that binary classification problems ({heart attack, no heart attack}) typically use cross-entropy. So, compared to another person, you count as much as your cross-entropy.  How much is that?  
+
+
 
   And in margin classifiers (e.g. SVMs), if you're not a support vector, you don't count at all.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NjcwMTczOCwtMTg0MjgyMjQ5NiwtMj
+eyJoaXN0b3J5IjpbMTc0MDE3MTgwNSwtMTg0MjgyMjQ5NiwtMj
 AwNDExMjE0OCwtOTQwMzYzODkyLC0xMjA0NjYyNjMxLC0xMjAw
 NjQyNDIsNDAxOTYyOTkxLDgzOTMwMzM3N119
 -->
