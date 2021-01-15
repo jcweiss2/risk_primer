@@ -4,7 +4,7 @@ You are an everyday John Doe.
 You know a researcher Doe II who spends his life studying populations for risk of heart attack.
 
 You do not want a heart attack.  Fortunately, from your general world knowledge you are low risk.
-But, low risk means 1 in 1000 per year, and your risk aversion compels you to be willing to act on yourself to further avoid risk.  How do you do it?
+But, low risk means 1 in 1000 per year, and your risk aversion compels you to be willing to act on yourself to further lower your risk.  How do you do it?
 
 Consult Doe II of course.  Doe II has trained a model to estimate your risk based on risk factors, including age, gender, body mass index (BMI), physical activity, and diabetes.  Doe II suggests you lower your age (not possible), be female (not possible), lower your BMI, increase your physical activity, and lower your blood sugar.
 
@@ -19,9 +19,9 @@ In your exploration, you find that survival models optimize by maximizing log li
 
 You raise this with Doe II, who says this is always how it has been done.  To assuage you, he offers to run a classification algorithm instead, in case it is simply a problem with the pesky survival formulation.  Furthermore, he assures you that his data is perfectly collected for  one year (no censorship).
 
-You reflect on Doe II'
+You reflect on Doe II's offer.  You 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NjcwMjI1MSwtMTg0MjgyMjQ5NiwtMj
+eyJoaXN0b3J5IjpbLTMzOTU3MzE0OCwtMTg0MjgyMjQ5NiwtMj
 AwNDExMjE0OCwtOTQwMzYzODkyLC0xMjA0NjYyNjMxLC0xMjAw
 NjQyNDIsNDAxOTYyOTkxLDgzOTMwMzM3N119
 -->
