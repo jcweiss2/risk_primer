@@ -10,8 +10,13 @@ Consult Doe II of course.  Doe II has trained a model to estimate your risk base
 
 You are BMI is 22, you already walk 30 minutes 3 times weekly, and your fasting blood sugar level is 70.  You wonder if Doe II's model really applies to you. 
 
-Doe II's model was a survival model built on the general population and you verify that his population included patients like you.  You are reassured becasrepresented in the data the 
+Doe II's model was a survival model built on the general population and you verify that his population included patients like you.  You are reassured because: you are represented in the data, the model is built on the data, and Doe II's recommendations are based on the model.
+you \in data \rightarrow model \rightarrow recc
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1OTAwODg0OSwtMTIwMDY0MjQyLDQwMT
+eyJoaXN0b3J5IjpbLTg5NDUyMDE4NCwtMTIwMDY0MjQyLDQwMT
 k2Mjk5MSw4MzkzMDMzNzddfQ==
 -->
