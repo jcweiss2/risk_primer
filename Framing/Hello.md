@@ -31,10 +31,10 @@ Supposing the classification model gets your risk exactly right (i.e. is Bayes-o
  
 (You consider turning to margin classifiers (e.g. SVMs), but you realize if you're not a support vector, you don't count at all.)
 
-Realizing that you 
+Realizing that you remain unsettled, Doe II 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0OTEyNzM5NSwtMTI0NzkzNTcxOCwtMT
-g0MjgyMjQ5NiwtMjAwNDExMjE0OCwtOTQwMzYzODkyLC0xMjA0
-NjYyNjMxLC0xMjAwNjQyNDIsNDAxOTYyOTkxLDgzOTMwMzM3N1
-19
+eyJoaXN0b3J5IjpbOTQzMTEyMzQ5LC0xMjQ3OTM1NzE4LC0xOD
+QyODIyNDk2LC0yMDA0MTEyMTQ4LC05NDAzNjM4OTIsLTEyMDQ2
+NjI2MzEsLTEyMDA2NDI0Miw0MDE5NjI5OTEsODM5MzAzMzc3XX
+0=
 -->
