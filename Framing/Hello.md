@@ -24,17 +24,17 @@ You raise this with Doe II, who says this is always how it has been done.  To as
 You reflect on Doe II's offer.  You learn that binary classification problems ({heart attack, no heart attack}) typically use cross-entropy. So, compared to another person, you count as much as your cross-entropy.  How much is that?  
 
 Supposing the classification model gets your risk exactly right (i.e. is Bayes-optimal): your cross-entropy is:
- $-0.001 \text{log}_{2}0.001\approx 0.01$, 
+ $-0.001\ \text{log}_{2}0.001\approx 0.01$, 
  and the person with 10 times the risk is:
- $-0.001 \text{log}_{2}0.001\approx 0.07$.  
+ $-0.01\ \text{log}_{2}0.01\approx 0.07$.  
  So they still count 7 times more than you.
  
 (You consider turning to margin classifiers (e.g. SVMs), but you realize if you're not a support vector, you don't count at all.)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDYyMzUzODAsLTEyNDc5MzU3MTgsLT
-E4NDI4MjI0OTYsLTIwMDQxMTIxNDgsLTk0MDM2Mzg5MiwtMTIw
-NDY2MjYzMSwtMTIwMDY0MjQyLDQwMTk2Mjk5MSw4MzkzMDMzNz
-ddfQ==
+eyJoaXN0b3J5IjpbMzg5MDAyNzcwLC0xMjQ3OTM1NzE4LC0xOD
+QyODIyNDk2LC0yMDA0MTEyMTQ4LC05NDAzNjM4OTIsLTEyMDQ2
+NjI2MzEsLTEyMDA2NDI0Miw0MDE5NjI5OTEsODM5MzAzMzc3XX
+0=
 -->
