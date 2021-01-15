@@ -33,10 +33,10 @@ Supposing the classification model gets your risk exactly right (i.e. is Bayes-o
 
 Realizing that you remain unsettled, Doe II suggests building a secondary model on the subgroup.  But who should be included?  First, the next model still proportionally focus on the highest risk members.  Second, if the initial model is not very good for low risk individuals, high risk members could bleed in, and low members could leak out.  And third, members who pass the first filtration may be selected for based on their characteristics, which may result in an unrepresentative population.
 
-Equivocator Doe III is alerted to your dilemma.  They say, weighting is up to you, and you just have to weight "according to your use case", whatever that means.  
+Equivocator Doe III is alerted to your dilemma.  They say, weighting is up to you, and you just have to weight "according to your use case", whatever that means.  You car
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDU0NDUxNTQsOTQzMTEyMzQ5LC0xMj
-Q3OTM1NzE4LC0xODQyODIyNDk2LC0yMDA0MTEyMTQ4LC05NDAz
-NjM4OTIsLTEyMDQ2NjI2MzEsLTEyMDA2NDI0Miw0MDE5NjI5OT
-EsODM5MzAzMzc3XX0=
+eyJoaXN0b3J5IjpbNzA4ODU0NzU1LC0yMTQ1NDQ1MTU0LDk0Mz
+ExMjM0OSwtMTI0NzkzNTcxOCwtMTg0MjgyMjQ5NiwtMjAwNDEx
+MjE0OCwtOTQwMzYzODkyLC0xMjA0NjYyNjMxLC0xMjAwNjQyND
+IsNDAxOTYyOTkxLDgzOTMwMzM3N119
 -->
