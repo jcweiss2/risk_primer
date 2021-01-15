@@ -35,11 +35,10 @@ Realizing that you remain unsettled, Doe II suggests building a secondary model 
 
 Equivocator Doe III is alerted to your dilemma.  They say, weighting is up to you, and you just have to weight "according to your use case", whatever that means.  You care about your risk, and you care about the factors that affect your risk.  So from that perspective, you care about other's risk insofar as: (1) you are uncertain about your own risk, and the characteristics that drive risk reduction in that level of risk might apply to you, and (2) associating measurable characteristics with risk lets you estimate slopes of risk through derivatives (gradients) or functions (interpolation).
 
-So, tld
+So, tldr, [use reweighting by default](https://arxiv.org/abs/1911.05109), but be careful to avoid unstable results from the extremely low risk predictions which have low sample 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwOTMxMTMzNiwtMTY0MTI5MTc1NiwtMj
-E0NTQ0NTE1NCw5NDMxMTIzNDksLTEyNDc5MzU3MTgsLTE4NDI4
-MjI0OTYsLTIwMDQxMTIxNDgsLTk0MDM2Mzg5MiwtMTIwNDY2Mj
-YzMSwtMTIwMDY0MjQyLDQwMTk2Mjk5MSw4MzkzMDMzNzddfQ==
-
+eyJoaXN0b3J5IjpbOTE4OTE3MzIxLC0xNjQxMjkxNzU2LC0yMT
+Q1NDQ1MTU0LDk0MzExMjM0OSwtMTI0NzkzNTcxOCwtMTg0Mjgy
+MjQ5NiwtMjAwNDExMjE0OCwtOTQwMzYzODkyLC0xMjA0NjYyNj
+MxLC0xMjAwNjQyNDIsNDAxOTYyOTkxLDgzOTMwMzM3N119
 -->
