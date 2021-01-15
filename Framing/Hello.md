@@ -10,16 +10,16 @@ Consult Doe II of course.  Doe II has trained a model to estimate your risk base
 
 Your BMI is 22, you already walk 30 minutes 3 times weekly, and your fasting blood sugar level is 70.  You wonder if Doe II's model really applies to you. 
 
-Doe II's model was a survival model built on the general population and you verify that his population included patients like you.  You are reassured because: you are represented in the data, the model is built on the data, and Doe II's recommendations are based on the model:
+Doe II's model was a survival model built on the general population and you verify that his population included patients like you.  You are reassured because: you are a member of the population, the model is built from population samples, and Doe II's recommendations are based on the model:
 
-$``\text{you} \in \text{p}; \text{data} \rightarrow \text{model} \rightarrow \text{recommendations}"$
+$``\text{you} \in \text{population}; \text{population} \rightarrow \text{model} \rightarrow \text{recommendations}"$
 
 But you tread on because the recommendations are unhelpful.
 In your exploration, you find that survival models optimize by maximizing log likelihoods, and that [the log likelihood weighs risk proportionally to risk accumulated over time](https://arxiv.org/abs/1911.05109).  So, if two people, one with 10 times the risk (1 in 100 versus 1 in 1000), were each observed for heart attack for one year, the model would optimize 10 *times* more to the high risk person.
 
 You raise this with Doe II, who says this is always how it has been done.  To assuage you, he offers to run a classification algorithm instead, in case it is simply a problem with the pesky survival formulation.  Furthermore, he assures you that his data is perfectly collected for  one year (no censorship).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzUxMzU1NjQsLTE4NDI4MjI0OTYsLT
+eyJoaXN0b3J5IjpbLTEyNDc4ODcyMzUsLTE4NDI4MjI0OTYsLT
 IwMDQxMTIxNDgsLTk0MDM2Mzg5MiwtMTIwNDY2MjYzMSwtMTIw
 MDY0MjQyLDQwMTk2Mjk5MSw4MzkzMDMzNzddfQ==
 -->
