@@ -3,14 +3,14 @@ You are an everyday John Doe.
 
 You know a researcher Doe II who spends his life studying populations for risk of heart attack.
 
-You do not want a heart attack.  Fortunately, you knowfrom your general world knowledge you are low risk.
+You do not want a heart attack.  Fortunately, you know from your general world knowledge that you are low risk.
 But, low risk means 1 in 1000 per year, and your risk aversion compels you to be willing to act on yourself to further lower your risk.  How do you do it?
 
 Consult Doe II of course.  Doe II has trained a model to estimate your risk based on risk factors, including age, gender, body mass index (BMI), physical activity, and diabetes.  Doe II suggests you lower your age (not possible), be female (not possible), lower your BMI, increase your physical activity, and lower your blood sugar.
 
 Your BMI is 22, you already walk 30 minutes 3 times weekly, and your fasting blood sugar level is 70.  You wonder if Doe II's model really applies to you. 
 
-Doe II's model was a survival model built on the general population and you verify that his population included patients like you.  You are reassured because: you are a member of the population, the model is built from population samples, and Doe II's recommendations are based on the model:
+Doe II's model was a survival model built on the general population and you verify that his population included patients like you.  You are reassured because: you are a member of the population, the model is built from representative population samples, and Doe II's recommendations are based on the model:
 
 $\text{you} \in \text{population}$; $\text{samples} \in \text{population};$ 
 $\text{samples} \rightarrow \text{train model} \rightarrow \text{recommendations}$
@@ -31,10 +31,10 @@ Supposing the classification model gets your risk exactly right (i.e. is Bayes-o
  
 (You consider turning to margin classifiers (e.g. SVMs), but you realize if you're not a support vector, you don't count at all.)
 
-
+Realizing that you 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc5NjYyMDYsLTEyNDc5MzU3MTgsLTE4ND
-I4MjI0OTYsLTIwMDQxMTIxNDgsLTk0MDM2Mzg5MiwtMTIwNDY2
-MjYzMSwtMTIwMDY0MjQyLDQwMTk2Mjk5MSw4MzkzMDMzNzddfQ
-==
+eyJoaXN0b3J5IjpbLTc0OTEyNzM5NSwtMTI0NzkzNTcxOCwtMT
+g0MjgyMjQ5NiwtMjAwNDExMjE0OCwtOTQwMzYzODkyLC0xMjA0
+NjYyNjMxLC0xMjAwNjQyNDIsNDAxOTYyOTkxLDgzOTMwMzM3N1
+19
 -->
