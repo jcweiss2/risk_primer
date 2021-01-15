@@ -3,7 +3,7 @@ You are an everyday John Doe.
 
 You know a researcher Doe II who spends his life studying populations for risk of heart attack.
 
-You do not want a heart attack.  Fortunately, from your general world knowledge you are low risk.
+You do not want a heart attack.  Fortunately, you knowfrom your general world knowledge you are low risk.
 But, low risk means 1 in 1000 per year, and your risk aversion compels you to be willing to act on yourself to further lower your risk.  How do you do it?
 
 Consult Doe II of course.  Doe II has trained a model to estimate your risk based on risk factors, including age, gender, body mass index (BMI), physical activity, and diabetes.  Doe II suggests you lower your age (not possible), be female (not possible), lower your BMI, increase your physical activity, and lower your blood sugar.
@@ -33,8 +33,8 @@ Supposing the classification model gets your risk exactly right (i.e. is Bayes-o
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg5MDAyNzcwLC0xMjQ3OTM1NzE4LC0xOD
-QyODIyNDk2LC0yMDA0MTEyMTQ4LC05NDAzNjM4OTIsLTEyMDQ2
-NjI2MzEsLTEyMDA2NDI0Miw0MDE5NjI5OTEsODM5MzAzMzc3XX
-0=
+eyJoaXN0b3J5IjpbODc5NjYyMDYsLTEyNDc5MzU3MTgsLTE4ND
+I4MjI0OTYsLTIwMDQxMTIxNDgsLTk0MDM2Mzg5MiwtMTIwNDY2
+MjYzMSwtMTIwMDY0MjQyLDQwMTk2Mjk5MSw4MzkzMDMzNzddfQ
+==
 -->
